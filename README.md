@@ -9,6 +9,7 @@
 - consume the API using the port number `8081`
 - for the project documentation visit `http://localhost:8081/swagger-ui.html` the is swagger documentation there.
 
+- NB: Please note that due to the configs in the application properties file, every time the project is started it drops the database and creates it again
 
 ## Curl requests
 
